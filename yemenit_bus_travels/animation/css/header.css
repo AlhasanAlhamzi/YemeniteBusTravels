@@ -1,0 +1,46 @@
+.form-control{
+	display:inline-block;
+	width:80%;
+}
+
+.dropdown-menu{
+	border:none;
+background-color: transparent;
+	
+}
+.dropdown-menu a{
+	color:white !important;
+	background-color:#333333;
+	border-radius:15px;
+	border:1px solid;
+}
+.dropdown-menu a:hover{
+	color:black !important;
+	border-color:black;
+}
+
+.close:hover{
+color:red;
+}
+.icons{
+	font-size:40px;
+}
+#welcomeimg{
+width:40px;
+height:40px;
+border-radius:20px;
+}
+#welcomeimg2{
+	font-size:30px;
+}
+#updateempimg{
+	width:80px;
+	height:80px;
+	border-radius:20px;
+}
+.table-responsive{
+	background-color: rgba(217, 217, 217,0.4);
+	border:1px solid aqua;
+	border-radius:10px;
+}
+

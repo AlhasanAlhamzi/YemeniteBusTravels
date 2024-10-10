@@ -1,0 +1,4 @@
+-We Must show just the last three or less day chats and show click button to show more
+-instead of travels name must do from brunch to brunch
+-log in must ask to enter the user to his home page or stay in his place
+-make the new in admin web page show just once

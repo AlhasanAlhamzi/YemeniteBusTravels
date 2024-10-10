@@ -1,0 +1,22 @@
+.copyrights{
+	margin-top: 80px;
+}
+.comments{
+	float:right;
+	text-align: center;
+	width:400px;
+
+}
+.comments textarea{
+	resize: none;
+}
+.contactus{
+	margin-top:50px;
+	text-align: center;
+	width:400px;
+	font-size:60px;
+}
+/* chats footer*/
+.chatstext{
+	height:120px !important;
+}

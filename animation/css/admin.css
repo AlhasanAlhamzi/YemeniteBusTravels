@@ -1,0 +1,58 @@
+.admin-menu{
+	margin-top:-40px;
+}
+.table-striped{
+	color:black;
+}
+.table-striped img{
+	width:60px;
+	border-radius:10px;
+}
+
+
+.adminaddu,.adminupdateu{
+	cursor:pointer;
+}
+.admindeleteu{
+color:brown;
+cursor:pointer;
+}
+.admindeleteu:hover{
+color:red;
+}
+.usericon{
+	font-size:40px;
+	
+}
+.admintimg{
+	width:40px;
+	height:40px;
+}
+
+
+/*admin add employees*/
+#updateempimg{
+	width:46px;
+	height:46px;
+	border-radius:20px;
+}
+
+
+.fname{
+display: inline-block;
+}
+
+.updaccount{
+	text-align: center;
+	font-size: 22px;
+}
+.admin-main-alert{
+	text-align: center;
+}
+.admin-tables{
+	margin-top:-50px;
+}
+
+.adminadditem{
+	float:right;
+}

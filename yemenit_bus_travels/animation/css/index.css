@@ -1,0 +1,64 @@
+
+
+.pagination{
+margin:-10px 0;
+}
+
+.carousel{
+	margin-top:-18px;
+}
+.carousel-inner{
+	height:500px;
+}
+.well{
+	color:black;
+}
+.well img{
+	width:100px;
+	height:100px;
+}
+
+.modal-dialog{
+	text-align: center;
+}
+.signupform input[type='file']{
+	display:inline-block;
+	padding:0 10px;
+}
+.chatsimg{
+	width:120px;
+	border-radius:120px;
+}
+.likes{
+	background-color:transparent;
+	border-radius:30px;
+}
+.likes a{
+font-size:30px;
+}
+.likes:hover a{
+	color:blue;
+}
+.likes:hover span{
+	background-color:blue !important;
+}
+.brlinktr{
+	color: green;
+	text-shadow: 1px 1px  white;
+}
+.brlinktr:hover{
+	text-shadow: 1px 1px  blue;
+	font-size:16px;
+}
+#reuname,#reunames{
+	display:none;
+}
+
+.liked{
+	font-size: 30px;
+width:100px;
+}
+.actives{
+	text-align:center;
+	font-size:22px;
+}
